@@ -2,7 +2,11 @@
 
 ![Logo: Explodierender Zeigestock](./assets/icon-128.png)
 
-[![Available on Mozilla Web Store](https://github.com/kazcfz/Browser-Promotional-Badges/raw/refs/heads/main/Mozilla/Firefox/Get%20The%20Add-On.svg)](https://addons.mozilla.org/en-US/firefox/addon/zeigestock-everywhere/)
+<p align="left">
+    <a href="https://addons.mozilla.org/en-US/firefox/addon/zeigestock-everywhere/">
+        <img height="50px" alt="Available on Mozilla Web Store" src="https://github.com/kazcfz/Browser-Promotional-Badges/raw/refs/heads/main/Mozilla/Firefox/Get%20The%20Add-On.svg">
+    </a>
+</p>
 
 Extension for all Chromium- and Gecko-based Web Browsers that replaces your cursor with a *Zeigestock* whereever possible.
 Derived from [my websites](https://codeberg.org/haesemeyer/pages) `zeigestock.js`
