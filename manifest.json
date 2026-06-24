@@ -32,7 +32,7 @@
                 "scripts/zeigestock_ext.js"
             ],
             "run_at": "document_end",
-            "world": "MAIN"
+            "world": "ISOLATED"
         }
     ],
     "web_accessible_resources": [
@@ -42,3 +42,4 @@
         }
     ]
 }
+

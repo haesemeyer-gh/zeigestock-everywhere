@@ -35,7 +35,7 @@ var zeigestockDefaultEnabled = true; // enabled by default with extension
     zeigestock.onload = function() {
         drawZeigestock(0);
     };
-    zeigestock.src = "https://haesemeyer.dev/assets/zeigestock.png"; // TODO local copy of zeigestock
+    zeigestock.src = browser.runtime.getURL("assets/zeigestock.png"); // local copy of zeigestock
     zeigestock.style.objectFit = "cover";
 
     let ctx = canvas.getContext('2d');
@@ -51,7 +51,7 @@ var zeigestockDefaultEnabled = true; // enabled by default with extension
         ctx.drawImage(zeigestock, -zeigestock.width, -zeigestock.height, );
         ctx.restore();
     }
-    
+
     // Function to draw Zeigestock at Mouse Position
     function moveMouse(x, y) {
         let dx = x - window.innerWidth;
@@ -101,7 +101,7 @@ var zeigestockDefaultEnabled = true; // enabled by default with extension
     zeigestockMenu.style.right = 0;
     zeigestockMenu.style.zIndex = 123451;
     zeigestockMenu.appendChild(zeigestockToggle);
-    
+
     document.body.appendChild(zeigestockMenu);
 
     if (defaultEnabled) {
@@ -110,3 +110,4 @@ var zeigestockDefaultEnabled = true; // enabled by default with extension
     }
 
 })(zeigestockDefaultEnabled);
+

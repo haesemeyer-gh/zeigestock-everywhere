@@ -15,3 +15,4 @@ Licensed under [**CC BY-SA 4.0**](./LICENSE.md)...
 
 Firefox requires signing Extensions.
 Either sign your copy or disable `xpinstall.signatures.required` in `about:config`
+
