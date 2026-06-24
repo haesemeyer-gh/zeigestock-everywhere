@@ -2,7 +2,10 @@
 
 <p align="left">
     <a href="https://addons.mozilla.org/en-US/firefox/addon/zeigestock-everywhere/">
-        <img height="50px" alt="Available on Mozilla Web Store" src="https://github.com/kazcfz/Browser-Promotional-Badges/raw/refs/heads/main/Mozilla/Firefox/Get%20The%20Add-On.svg">
+        <img height="50px" alt="Get it from Mozilla Web Store" src="https://github.com/kazcfz/Browser-Promotional-Badges/raw/refs/heads/main/Mozilla/Firefox/Get%20The%20Add-On.svg" />
+    </a>
+    <a href="https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home">
+        <img height="50px" alt="Get it from Microsoft Edge" src="https://github.com/kazcfz/Browser-Promotional-Badges/raw/refs/heads/main/Microsoft/Edge%20Add-ons/English_Get%20it%20from%20Microsoft%20Edge.png" />
     </a>
 </p>
 
