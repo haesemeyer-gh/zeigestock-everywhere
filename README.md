@@ -15,8 +15,3 @@ But have you considered how fun having a *Zeigestock* literally ***everywhere***
 
 Licensed under [**CC BY-SA 4.0**](./LICENSE.md)...
 
-## Firefox
-
-Firefox requires signing Extensions.
-Either sign your copy or disable `xpinstall.signatures.required` in `about:config`
-
