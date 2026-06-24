@@ -4,6 +4,16 @@
     "author": "haesemeyer <haesemeyer@mailbox.org>",
     "version": "1.2",
     "manifest_version": 3,
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "c35f0e3097a2455aaf2f7d5ccdefd93437c7f6a0@temporary-addon",
+            "data_collection_permissions": {
+                "required": [
+                    "none"
+                ]
+            }
+        }
+    },
     "icons": {
         "16": "assets/icon-16.png",
         "32": "assets/icon-32.png",
