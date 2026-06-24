@@ -1,5 +1,7 @@
 # 👈 Zeigestock Everywhere (Chrome)
 
+![Logo: Explodierender Zeigestock](./assets/icon-128.png)
+
 Extension for all Chromium-based Web Browsers that loads the script
 [`https://haesemeyer.dev/scripts/zeigestock.js`](https://codeberg.org/haesemeyer/pages/src/branch/master/scripts/zeigestock.js)
 on every page.
